@@ -1,2 +1,2 @@
 # odin-recipes
-Lorem ipsum blablabla
+Learning html, css by making a web site for Thai food recipes!
